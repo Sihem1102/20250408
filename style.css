@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    height: 100vh;
+    color: darkblue;
+    
+}
+
+.flex-item{
+    padding-right: 20PX;
+}
+
+.sihem{
+    display: flex;
+}
